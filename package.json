@@ -1,0 +1,20 @@
+{
+  "name": "petdevshop",
+  "version": "1.0.0",
+  "description": "Projeto de estudo prático de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigsneto/NodeJS-Canil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigsneto/NodeJS-Canil/issues"
+  },
+  "homepage": "https://github.com/rodrigsneto/NodeJS-Canil#readme"
+}
